@@ -20,15 +20,15 @@ The provided file [`BooksAPI.js`](src/BooksAPI.js) contains following methods to
 
 books
 
-![Books](https://i.ibb.co/tXWL3HS/react.gif)
+![Books](https://i.ibb.co/3fnJF6r/myread.gif)
 
 Book List
 
-![book list](https://i.ibb.co/HB0pbfK/img1.png)
+![book list](https://i.ibb.co/6nr62w1/img-1.png)
 
 Search
 
-![Search](https://i.ibb.co/2PY0jHD/img2.png)
+![Search](https://i.ibb.co/jbC7zjZ/img-2.png)
 
 ## Development server
  - Instructions
